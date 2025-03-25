@@ -1,0 +1,14 @@
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\bin\Debug\net8.0\PrototypeSample.exe
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\bin\Debug\net8.0\PrototypeSample.deps.json
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\bin\Debug\net8.0\PrototypeSample.runtimeconfig.json
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\bin\Debug\net8.0\PrototypeSample.dll
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\bin\Debug\net8.0\PrototypeSample.pdb
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\obj\Debug\net8.0\PrototypeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\obj\Debug\net8.0\PrototypeSample.AssemblyInfoInputs.cache
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\obj\Debug\net8.0\PrototypeSample.AssemblyInfo.cs
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\obj\Debug\net8.0\PrototypeSample.csproj.CoreCompileInputs.cache
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\obj\Debug\net8.0\PrototypeSample.dll
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\obj\Debug\net8.0\refint\PrototypeSample.dll
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\obj\Debug\net8.0\PrototypeSample.pdb
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\obj\Debug\net8.0\PrototypeSample.genruntimeconfig.cache
+C:\Users\Tung\source\repos\bvtung17\DesignPartent\PrototypeSample\obj\Debug\net8.0\ref\PrototypeSample.dll
